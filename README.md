@@ -246,7 +246,7 @@ The notebook produces the following figures:
 ### Option A — Google Colab (recommended, GPU available)
 
 1. Open [Google Colab](https://colab.research.google.com)
-2. Upload `CSE427_Sec03_Group04_v4.ipynb`
+2. Upload `CSE427_Sec03_Group04.ipynb`
 3. Set runtime: **Runtime → Change runtime type → T4 GPU**
 4. Run all cells — the dataset loads automatically from Google Drive
 
@@ -297,9 +297,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost tensorflow jupy
 
 | Name | ID | GitHub |
 |---|---|---|
-| Mohammad Hasibul Amin | 23201409 | [@MohammadHasibulAmin](https://github.com/MohammadHasibulAmin) |
-| Fabiha Tarannum Areena | 23201042 | [@FabihaTarannumA](https://github.com/FabihaTarannumA) |
-| Zawad Ahsan | 23201136 | [@ZeddhD](https://github.com/ZeddhD) |
+| Mohammad Hasibul Amin | [@MohammadHasibulAmin](https://github.com/MohammadHasibulAmin) |
+| Fabiha Tarannum Areena | [@FabihaTarannumA](https://github.com/FabihaTarannumA) |
+| Zawad Ahsan | [@ZeddhD](https://github.com/ZeddhD) |
 
 **Supervisor:** <REDACTED>
 **Institution:** BRAC University, Dhaka, Bangladesh
