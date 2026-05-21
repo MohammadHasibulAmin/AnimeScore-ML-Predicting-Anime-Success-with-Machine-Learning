@@ -4,7 +4,7 @@
 
 A comparative machine learning study that predicts MyAnimeList audience scores from anime metadata using four classical regression models and three neural network architectures. The project also investigates how genre combinations influence ratings through feature-level importance analysis.
 
-📄 **[Read the Paper (IEEE Format)](CSE427_IEEE_FINAL_Report.pdf)**  &nbsp;|&nbsp; 🎥 **[Watch the Presentation](https://www.youtube.com/watch?v=qkZ3fk8aMvc)**  &nbsp;|&nbsp; 📦 **[Dataset on Kaggle](https://www.kaggle.com/datasets/azathoth42/myanimelist/data)**
+📄 **[Read the Paper (IEEE Format)](AnimeScoreML_Predicting_Anime_Success_with_Machine_Learning.pdf)**  &nbsp;|&nbsp; 🎥 **[Watch the Presentation](https://www.youtube.com/watch?v=qkZ3fk8aMvc)**  &nbsp;|&nbsp; 📦 **[Dataset on Kaggle](https://www.kaggle.com/datasets/azathoth42/myanimelist/data)**
 
 ---
 
