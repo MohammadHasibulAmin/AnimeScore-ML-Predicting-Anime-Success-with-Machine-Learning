@@ -83,8 +83,8 @@ This project builds and evaluates **seven regression models** on the MyAnimeList
 ```
 AnimeScore-ML/
 │
-├── CSE427_Sec03_Group04_v4.ipynb   ← Main notebook (EDA + Preprocessing + All 7 Models)
-├── CSE427_IEEE_FINAL_Report.pdf    ← Full IEEE-format research paper
+├── AnimeScoreML_Modeling_and_Evaluation.ipynb   ← Main notebook (EDA + Preprocessing + All 7 Models)
+├── AnimeScoreML_Predicting_Anime_Success_with_Machine_Learning.pdf    ← Full IEEE-format research paper
 └── README.md
 ```
 
@@ -246,7 +246,7 @@ The notebook produces the following figures:
 ### Option A — Google Colab (recommended, GPU available)
 
 1. Open [Google Colab](https://colab.research.google.com)
-2. Upload `CSE427_Sec03_Group04.ipynb`
+2. Upload `AnimeScoreML_Modeling_and_Evaluation.ipynb`
 3. Set runtime: **Runtime → Change runtime type → T4 GPU**
 4. Run all cells — the dataset loads automatically from Google Drive
 
@@ -264,7 +264,7 @@ pip install -r requirements.txt
 #    Place AnimeList.csv in the project root, or update the file path in cell 3
 
 # 4. Launch Jupyter
-jupyter notebook CSE427_Sec03_Group04_v4.ipynb
+jupyter notebook AnimeScoreML_Modeling_and_Evaluation.ipynb
 ```
 
 > **Note:** Neural network training cells (Sections 6–8 of the notebook) require a GPU for reasonable training times. On CPU they will still run but will be significantly slower.
@@ -295,13 +295,14 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost tensorflow jupy
 
 ## 👥 Contributors
 
-| Name | ID | GitHub |
-|---|---|---|
+| Name | GitHub |
+|---|---|
 | Mohammad Hasibul Amin | [@MohammadHasibulAmin](https://github.com/MohammadHasibulAmin) |
 | Fabiha Tarannum Areena | [@FabihaTarannumA](https://github.com/FabihaTarannumA) |
 | Zawad Ahsan | [@ZeddhD](https://github.com/ZeddhD) |
 
-**Supervisor:** <REDACTED>
+**Supervisor:** Confidential
+
 **Institution:** BRAC University, Dhaka, Bangladesh
 **Semester:** Spring 2026
 
